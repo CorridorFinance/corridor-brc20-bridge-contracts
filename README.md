@@ -1,5 +1,9 @@
 # Corridor Brc20 Bridge Evm Contract
 
+## Audit Report
+
+Read contract audit report [Corridor Finance Full Audit Report](./audit_report/CORRIDOR%20FINANCE%20FULL%20AUDIT%20REPORT.pdf) by [Vital Block](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/CORRIDOR%20FINANCE%20FULL%20AUDIT%20REPORT.pdf).
+
 ## How To
 
 1. Config private key in `.env` file
